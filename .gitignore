@@ -1,0 +1,7 @@
+# Default ignored files
+/.idea
+/workspace.xml
+/*.iml
+
+# which files and folders you dont want to push to github then add here
+
